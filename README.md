@@ -41,7 +41,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devSHUKLApriyank&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-git-master-anuraghazra1.vercel.app/api?username=devSHUKLApriyank&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSHUKLApriyank&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
