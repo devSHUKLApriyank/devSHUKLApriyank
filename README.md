@@ -1,29 +1,40 @@
-<h1 align="center">Hi there, I'm Priyank Shukla 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Priyank%20Shukla&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20Anime%20%26%20Code%20Enthusiast&descAlignY=58&descSize=18" />
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Building+Cool+Projects+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=C792EA&center=true&vCenter=true&width=560&lines=Konnichiwa%2C+I'm+Priyank+%F0%9F%8D%A5;Full-Stack+Developer+%E2%9A%94%EF%B8%8F;MERN+Stack+Ninja+%F0%9F%A5%B7;Debugging+like+it's+an+Anime+Fight+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devSHUKLApriyank&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/devSHUKLApriyank?label=Followers&style=flat&color=58A6FF" alt="Followers" />
+  <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="260" alt="anime coding gif" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devSHUKLApriyank&label=Profile%20Views&color=C792EA&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/devSHUKLApriyank?label=Followers&style=for-the-badge&color=C792EA" alt="Followers" />
 </p>
 
 ---
 
-### 🚀 About Me
+### ⚔️ About Me
+
+```yaml
+class: Full-Stack Developer
+guild: devSHUKLApriyank
+current_arc: Mastering the MERN Stack
+side_quest: Grinding LeetCode for XP
+weapon_of_choice: React + Tailwind CSS
+power_level: Rising every day 📈
+```
 
 - 🔭 Currently building full-stack apps with the **MERN stack**
 - 🌱 Sharpening my DSA skills with **LeetCode**
 - 💬 Ask me about **React, Tailwind CSS, JavaScript, Node.js**
 - 📫 Reach me on **LinkedIn** — [add your link here]
-- ⚡ Fun fact: I like clean UIs almost as much as clean code
+- ⚡ Fun fact: I debug faster than Zenitsu runs
 
 ---
 
-### 🛠️ Tech Stack
+### ⚡ Skill Tree
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -41,16 +52,20 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-master-anuraghazra1.vercel.app/api?username=devSHUKLApriyank&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSHUKLApriyank&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devSHUKLApriyank&show_icons=true&theme=synthwave&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSHUKLApriyank&layout=compact&theme=synthwave&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devSHUKLApriyank&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devSHUKLApriyank&theme=synthwave&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devSHUKLApriyank&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devSHUKLApriyank&theme=synthwave&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="220" alt="anime running gif" />
 </p>
 
 ---
@@ -67,17 +82,19 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Guild Contacts
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/priyank-shukla2005/" target="_blank">
+  <a href="https://www.linkedin.com/in/your-linkedin-here" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:priyankshukla168@gmail.com">
+  <a href="mailto:umeshusha1974@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </p>
+
+<p align="center"><i>"A person becomes strong when they have someone they want to protect." — Naruto</i></p>
