@@ -1,64 +1,38 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/aayushpaigwar/aayushpaigwar/main/images/wave.gif" alt="wave banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:5D8A3A,50:8B5A2B,100:5D8A3A&height=180&text=PRIYANK%20SHUKLA&fontSize=48&fontColor=fff&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Block%20by%20Block&descAlignY=68&descSize=18" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:8E2DE2,100:4A00E0&height=250&section=header&text=夜狩り%20PRIYANK%20SHUKLA&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Dev%20%E2%9A%94%EF%B8%8F%20Anime%20Addict%20%F0%9F%8D%A5%20Code%20Ninja&descAlignY=58&descSize=20" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=700&color=FF2E63,C792EA,7F5AF0&center=true&multiline=true&width=650&height=100&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D+%E2%80%94+Welcome+to+my+dojo;Full-Stack+Developer+%E2%9A%94%EF%B8%8F;MERN+Stack+Ninja+%F0%9F%A5%B7;Grinding+XP+on+LeetCode+daily+%F0%9F%92%A2" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="230" />
-<img src="https://media.giphy.com/media/xUOwGoNqFOnoctq5Cg/giphy.gif" width="230" />
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="230" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=16&duration=3000&pause=800&color=8B5A2B&center=true&width=600&lines=%3E+Loading+World...;%3E+Full-Stack+Developer;%3E+MERN+Stack+Builder;%3E+Mining+LeetCode+Blocks" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=devSHUKLApriyank&label=POWER%20LEVEL%20(Views)&color=8E2DE2&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/devSHUKLApriyank?label=NAKAMA%20(Followers)&style=for-the-badge&color=FF2E63" />
-<img src="https://img.shields.io/badge/STATUS-Grinding%20%F0%9F%94%A5-4A00E0?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=devSHUKLApriyank&label=WORLD+VISITS&color=5D8A3A&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/devSHUKLApriyank?label=FOLLOWERS&style=for-the-badge&color=8B5A2B" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:5D8A3A,100:8B5A2B&height=6" />
 
-## ⚔️ CHARACTER PROFILE
-
-<table align="center">
-<tr>
-<td width="55%" valign="top">
+## 🟩 PLAYER INFO
 
 ```yaml
-name: Priyank Shukla
-alias: devSHUKLApriyank
-class: Full-Stack Developer
-guild: MERN Alliance
-current_arc: Mastering Full-Stack Sorcery
-side_quest: Grinding LeetCode for XP
-weapon_of_choice: React ⚔️ + Tailwind CSS 🛡️
-special_move: Ctrl+Z Time Reversal Jutsu
-power_level: "Rising every day 📈"
-status: Online 🟢
+username: devSHUKLApriyank
+real_name: Priyank Shukla
+role: Full-Stack Developer
+current_build: MERN Stack Projects
+grinding: LeetCode (mining XP daily)
+main_tools: React + Tailwind CSS
+status: Online
 ```
 
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://media.giphy.com/media/qLvSD8qi8prJy/giphy.gif" width="230"/>
-
-</td>
-</tr>
-</table>
-
-- 🔭 Currently building full-stack apps with the **MERN stack**
-- 🌱 Sharpening my DSA skills with **LeetCode**
+- 🧱 Currently building full-stack apps with the **MERN stack**
+- ⛏️ Sharpening my DSA skills with **LeetCode**
 - 💬 Ask me about **React, Tailwind CSS, JavaScript, Node.js**
 - 📫 Reach me on **LinkedIn** — [add your link here]
-- ⚡ Fun fact: I debug faster than Zenitsu runs
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:5D8A3A,100:8B5A2B&height=6" />
 
-## ⚡ SKILL TREE
+## 🟫 INVENTORY (Tech Stack)
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -71,34 +45,26 @@ status: Online 🟢
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:5D8A3A,100:8B5A2B&height=6" />
 
-## 📊 BATTLE STATS
+## ⛏️ STATS
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devSHUKLApriyank&show_icons=true&theme=synthwave&hide_border=true&count_private=true&icon_color=FF2E63&title_color=8E2DE2" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSHUKLApriyank&layout=compact&theme=synthwave&hide_border=true&title_color=8E2DE2" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devSHUKLApriyank&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSHUKLApriyank&layout=compact&theme=gruvbox&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devSHUKLApriyank&theme=synthwave&hide_border=true&ring=FF2E63&fire=8E2DE2" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devSHUKLApriyank&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devSHUKLApriyank&theme=synthwave&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devSHUKLApriyank&theme=green&hide_border=true" alt="Contribution Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devSHUKLApriyank&theme=algolia&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:5D8A3A,100:8B5A2B&height=6" />
 
-<div align="center">
-<img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="200" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=4" />
-
-## 📌 QUEST LOG (Pinned Projects)
+## 📦 CRAFTED BUILDS (Pinned Projects)
 
 | Project | Description | Tech |
 |---|---|---|
@@ -108,9 +74,9 @@ status: Online 🟢
 | 💻 [leetcode-solutions](https://github.com/devSHUKLApriyank/leetcode-solutions) | My DSA problem-solving journey | Java |
 | 🌐 [personal-portfolio](https://github.com/devSHUKLApriyank/personal-portfolio) | My personal portfolio site showcasing projects & skills | React, Tailwind CSS |
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:5D8A3A,100:8B5A2B&height=6" />
 
-## 🌐 GUILD CONTACTS
+## 🌐 CONNECT
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-here" target="_blank">
@@ -121,13 +87,4 @@ status: Online 🟢
   </a>
 </p>
 
-<div align="center">
-<img src="https://media.giphy.com/media/l0MYGb1LuZ3n7dRnO/giphy.gif" width="260" />
-
-<br/><br/>
-
-<i>"A person becomes strong when they have someone they want to protect." — Naruto</i>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=150&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:5D8A3A,50:8B5A2B,100:5D8A3A&height=100&text=THANKS%20FOR%20VISITING&fontSize=20&fontColor=fff&fontAlignY=60" />
