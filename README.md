@@ -28,7 +28,7 @@ status: Online
 - 🧱 Currently building full-stack apps with the **MERN stack**
 - ⛏️ Sharpening my DSA skills with **LeetCode**
 - 💬 Ask me about **React, Tailwind CSS, JavaScript, Node.js**
-- 📫 Reach me on **LinkedIn** — [add your link here]
+- 📫 Reach me on **LinkedIn** — https://www.linkedin.com/in/priyank-shukla2005/
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:5D8A3A,100:8B5A2B&height=6" />
 
