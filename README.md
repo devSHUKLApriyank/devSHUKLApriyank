@@ -51,11 +51,6 @@ status: Swinging between tabs, online
 ## 🏙️ CITY STATS (Daily Bugle Report)
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=devSHUKLApriyank&show_icons=true&theme=dracula&hide_border=true&count_private=true&title_color=C41E3A&icon_color=1B3B6F" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=devSHUKLApriyank&layout=compact&theme=dracula&hide_border=true&title_color=C41E3A" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devSHUKLApriyank&theme=dracula&hide_border=true&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A" alt="GitHub Streak" />
 </p>
 
