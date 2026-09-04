@@ -51,8 +51,8 @@ status: Swinging between tabs, online
 ## 🏙️ CITY STATS (Daily Bugle Report)
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devSHUKLApriyank&show_icons=true&theme=dracula&hide_border=true&count_private=true&title_color=C41E3A&icon_color=1B3B6F" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSHUKLApriyank&layout=compact&theme=dracula&hide_border=true&title_color=C41E3A" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=devSHUKLApriyank&show_icons=true&theme=dracula&hide_border=true&count_private=true&title_color=C41E3A&icon_color=1B3B6F" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=devSHUKLApriyank&layout=compact&theme=dracula&hide_border=true&title_color=C41E3A" />
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@ status: Swinging between tabs, online
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devSHUKLApriyank&theme=redial&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devSHUKLApriyank&theme=dracula&hide_border=true" alt="Contribution Graph" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:1B3B6F&height=6" />
@@ -77,6 +77,16 @@ status: Swinging between tabs, online
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:1B3B6F&height=6" />
 
+## 🧠 SPIDEY-SENSE TRAINING (LeetCode)
+
+<p align="center">
+  <a href="https://leetcode.com/u/Priyankshukla/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Priyankshukla?theme=dark&font=Baloo%202&ext=heatmap" />
+  </a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:1B3B6F&height=6" />
+
 ## 🌆 CONNECT WITH YOUR FRIENDLY NEIGHBORHOOD DEV
 
 <p align="center">
@@ -85,6 +95,9 @@ status: Swinging between tabs, online
   </a>
   <a href="mailto:umeshusha1974@gmail.com">
     <img src="https://img.shields.io/badge/Email-C41E3A?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Priyankshukla/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-8B0000?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
